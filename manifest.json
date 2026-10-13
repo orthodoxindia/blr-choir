@@ -1,0 +1,21 @@
+{
+  "name": "BLR Choir | OCI",
+  "short_name": "BLR Choir | OCI",
+  "start_url": "/blr-choir/",
+  "scope": "/blr-choir/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "/blr-choir/favicon.png",
+      "sizes": "96x96"
+    },
+    {
+      "type": "image/svg+xml",
+      "src": "/blr-choir/favicon.svg",
+      "sizes": "any"
+    }
+  ]
+}
