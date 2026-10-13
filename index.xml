@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>BLR Choir | OCI</title>
-		<link>https://orthodoxindia.github.io/blr-choir/</link>
+		<link>http://localhost:1313/blr-choir/</link>
 		<description>Recent content on BLR Choir | OCI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,159 +10,159 @@
 		
 		
 		
-			<atom:link href="https://orthodoxindia.github.io/blr-choir/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blr-choir/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Alleluia</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/alleluia/</link>
+				<link>http://localhost:1313/blr-choir/docs/alleluia/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/alleluia/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/alleluia/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Communion Hymn</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/communion_hymn/</link>
+				<link>http://localhost:1313/blr-choir/docs/communion_hymn/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/communion_hymn/</guid>
-				<description>&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Agni_Parthene.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/communion_hymn/</guid>
+				<description>&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Agni_Parthene.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Great Litany</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/01_great_litany/</link>
+				<link>http://localhost:1313/blr-choir/docs/01_great_litany/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/01_great_litany/</guid>
-				<description>&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;To Thee, O Lord&lt;/p&gt;&#xA;&lt;p&gt;Amen&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Great_Litany.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/01_great_litany/</guid>
+				<description>&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;To Thee, O Lord&lt;/p&gt;&#xA;&lt;p&gt;Amen&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Great_Litany.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Litany of Thanksgiving</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/litany_of_thanksgiving/</link>
+				<link>http://localhost:1313/blr-choir/docs/litany_of_thanksgiving/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/litany_of_thanksgiving/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/litany_of_thanksgiving/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Little Litany</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/little_litany/</link>
+				<link>http://localhost:1313/blr-choir/docs/little_litany/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/little_litany/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/little_litany/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Prokeimenon</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/prokeimenon/</link>
+				<link>http://localhost:1313/blr-choir/docs/prokeimenon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/prokeimenon/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/prokeimenon/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>First Antiphon</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/02_first_antiphon/</link>
+				<link>http://localhost:1313/blr-choir/docs/02_first_antiphon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/02_first_antiphon/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/02_first_antiphon/</guid>
 				<description>&lt;p&gt;Bless the Lord, O my soul. Blessed are You, O Lord!&lt;/p&gt;&#xA;&lt;p&gt;Bless the Lord, O my soul. And all that is within me, bless His holy name!&lt;/p&gt;&#xA;&lt;p&gt;Bless the Lord, O my soul, and forget not all His benefits;&lt;/p&gt;&#xA;&lt;p&gt;Who forgives all your iniquities, Who heals all your diseases.&lt;/p&gt;&#xA;&lt;p&gt;The Lord is merciful and gracious, slow to anger and abounding in steadfast love.&lt;/p&gt;&#xA;&lt;p&gt;Bless the Lord, O my soul. And all that is within me, bless His holy name!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Second Antiphon</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/03_second_antiphon/</link>
+				<link>http://localhost:1313/blr-choir/docs/03_second_antiphon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/03_second_antiphon/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/03_second_antiphon/</guid>
 				<description>&lt;p&gt;Amen. Glory to the Father, and to the Son, and to the Holy Spirit.&lt;/p&gt;&#xA;&lt;p&gt;Praise the Lord, O my soul!&lt;/p&gt;&#xA;&lt;p&gt;I will praise the Lord as long as I live;&lt;/p&gt;&#xA;&lt;p&gt;I will sing praises to my God while I have being.&lt;/p&gt;&#xA;&lt;p&gt;Put not your trust in princes, in sons of men in whom there is no salvation.&lt;/p&gt;&#xA;&lt;p&gt;When his breath departs he returns to his earth;&lt;/p&gt;&#xA;&lt;p&gt;on that very day his plans perish.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hymn of Incarnation</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/hymn_of_incarnation/</link>
+				<link>http://localhost:1313/blr-choir/docs/hymn_of_incarnation/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/hymn_of_incarnation/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/hymn_of_incarnation/</guid>
 				<description>&lt;p&gt;Only-begotten Son and immortal Word of God,&lt;/p&gt;&#xA;&lt;p&gt;Who for our salvation willed to be incarnate&lt;/p&gt;&#xA;&lt;p&gt;of the holy Theotokos and ever-virgin Mary,&lt;/p&gt;&#xA;&lt;p&gt;who without change became man and was crucified,&lt;/p&gt;&#xA;&lt;p&gt;O Christ our God, trampling down death by death.&lt;/p&gt;&#xA;&lt;p&gt;Thou art one of the Holy Trinity,&lt;/p&gt;&#xA;&lt;p&gt;glorified with the Father and the Holy Spirit.&lt;/p&gt;&#xA;&lt;p&gt;Save us!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Third Antiphon</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/third_antiphon/</link>
+				<link>http://localhost:1313/blr-choir/docs/third_antiphon/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/third_antiphon/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/third_antiphon/</guid>
 				<description>&lt;p&gt;In Your kingdom remember us O Lord when Thou comest in Thy kingdom.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are those who mourn, for they shall be comforted.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are the meek, for they shall inherit the earth.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are those who hunger and thirst after righteousness, for they shall be filled.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are the merciful, for they shall obtain mercy.&lt;/p&gt;&#xA;&lt;p&gt;Blessed are the pure in heart, for they shall see God.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Entrance Hymn</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/entrance_hymn/</link>
+				<link>http://localhost:1313/blr-choir/docs/entrance_hymn/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/entrance_hymn/</guid>
-				<description>&lt;p&gt;Come, let us worship and fall down before Christ;&lt;/p&gt;&#xA;&lt;p&gt;O Son of God Who didst rise from the dead save us who chant unto Thee: Alleluia.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Entrance_Hymn.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/entrance_hymn/</guid>
+				<description>&lt;p&gt;Come, let us worship and fall down before Christ;&lt;/p&gt;&#xA;&lt;p&gt;O Son of God Who didst rise from the dead save us who chant unto Thee: Alleluia.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Entrance_Hymn.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Trisagion Hymn</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/trisagion_hymn/</link>
+				<link>http://localhost:1313/blr-choir/docs/trisagion_hymn/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/trisagion_hymn/</guid>
-				<description>&lt;p&gt;Holy God! Holy Mighty! Holy Immortal! Have mercy on us. (3x)&lt;/p&gt;&#xA;&lt;p&gt;Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.&lt;/p&gt;&#xA;&lt;p&gt;Holy Immortal! Have mercy on us.&lt;/p&gt;&#xA;&lt;p&gt;Holy God! Holy Mighty! Holy Immortal! Have mercy on us.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Trisagion.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/trisagion_hymn/</guid>
+				<description>&lt;p&gt;Holy God! Holy Mighty! Holy Immortal! Have mercy on us. (3x)&lt;/p&gt;&#xA;&lt;p&gt;Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen.&lt;/p&gt;&#xA;&lt;p&gt;Holy Immortal! Have mercy on us.&lt;/p&gt;&#xA;&lt;p&gt;Holy God! Holy Mighty! Holy Immortal! Have mercy on us.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Trisagion.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Gospel Response</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/gospel_response/</link>
+				<link>http://localhost:1313/blr-choir/docs/gospel_response/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/gospel_response/</guid>
-				<description>&lt;p&gt;And to your spirit&lt;/p&gt;&#xA;&lt;p&gt;Glory to You, O Lord, Glory to You!&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Gospel_Response.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/gospel_response/</guid>
+				<description>&lt;p&gt;And to your spirit&lt;/p&gt;&#xA;&lt;p&gt;Glory to You, O Lord, Glory to You!&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Gospel_Response.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Litany of Fervent Supplication</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/litany_of_fervent_supplication/</link>
+				<link>http://localhost:1313/blr-choir/docs/litany_of_fervent_supplication/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/litany_of_fervent_supplication/</guid>
-				<description>&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy. Lord, have mercy. Lord, have mercy&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Litany_of_Fervent_Supplication.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/litany_of_fervent_supplication/</guid>
+				<description>&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy&lt;/p&gt;&#xA;&lt;p&gt;Lord, have mercy. Lord, have mercy. Lord, have mercy&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Litany_of_Fervent_Supplication.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Cherubic Hymn</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/cherubic_hymn/</link>
+				<link>http://localhost:1313/blr-choir/docs/cherubic_hymn/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/cherubic_hymn/</guid>
-				<description>&lt;p&gt;Let us who mystically represent the cherubim,&lt;/p&gt;&#xA;&lt;p&gt;and who sing the thrice-holy hymn to the life-creating Trinity,&lt;/p&gt;&#xA;&lt;p&gt;now lay aside all earthly cares.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Amen.&lt;/p&gt;&#xA;&lt;p&gt;That we may receive the King of all,&lt;/p&gt;&#xA;&lt;p&gt;Who comes invisibly upborne by the angelic hosts.&lt;/p&gt;&#xA;&lt;p&gt;Alleluia, alleluia, alleluia.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Cherubic_Hymn.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/cherubic_hymn/</guid>
+				<description>&lt;p&gt;Let us who mystically represent the cherubim,&lt;/p&gt;&#xA;&lt;p&gt;and who sing the thrice-holy hymn to the life-creating Trinity,&lt;/p&gt;&#xA;&lt;p&gt;now lay aside all earthly cares.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Amen.&lt;/p&gt;&#xA;&lt;p&gt;That we may receive the King of all,&lt;/p&gt;&#xA;&lt;p&gt;Who comes invisibly upborne by the angelic hosts.&lt;/p&gt;&#xA;&lt;p&gt;Alleluia, alleluia, alleluia.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Cherubic_Hymn.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Litany of Supplication</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/litany_of_supplication/</link>
+				<link>http://localhost:1313/blr-choir/docs/litany_of_supplication/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/litany_of_supplication/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/litany_of_supplication/</guid>
 				<description>&lt;p&gt;Lord, have mercy.&lt;/p&gt;&#xA;&lt;p&gt;Grant it, O Lord.&lt;/p&gt;&#xA;&lt;p&gt;To Thee, O Lord.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Anaphora</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/anaphora/</link>
+				<link>http://localhost:1313/blr-choir/docs/anaphora/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/anaphora/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/anaphora/</guid>
 				<description>&lt;p&gt;A mercy of peace, a sacrifice of praise!&lt;/p&gt;&#xA;&lt;p&gt;And with your spirit&lt;/p&gt;&#xA;&lt;p&gt;We lift them up unto the Lord&lt;/p&gt;&#xA;&lt;p&gt;It is meet and right&lt;/p&gt;&#xA;&lt;p&gt;To worship the Father, and the Son, and the Holy Spirit&lt;/p&gt;&#xA;&lt;p&gt;The Trinity One in essence and undivided&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Holy! Holy! Holy! Lord of Sabaoth!&lt;/p&gt;&#xA;&lt;p&gt;Heaven and earth are full of Your glory!&lt;/p&gt;&#xA;&lt;p&gt;Hosanna in the highest!&lt;/p&gt;&#xA;&lt;p&gt;Blessed is He Who comes in the Name of the Lord!&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Hymn to the Theotokos</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/hymn_to_the_theotokos/</link>
+				<link>http://localhost:1313/blr-choir/docs/hymn_to_the_theotokos/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/hymn_to_the_theotokos/</guid>
-				<description>&lt;p&gt;It is truly meet to bless thee, O Theotokos,&lt;/p&gt;&#xA;&lt;p&gt;ever-blessed and the most pure, and the Mother of our God.&lt;/p&gt;&#xA;&lt;p&gt;More honorable than the cherubim, and more glorious beyond compare than the seraphim:&lt;/p&gt;&#xA;&lt;p&gt;without defilement thou gavest birth to God the Word:&lt;/p&gt;&#xA;&lt;p&gt;true Theotokos, we magnify thee.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Hymn_to_the_Theotokos.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/hymn_to_the_theotokos/</guid>
+				<description>&lt;p&gt;It is truly meet to bless thee, O Theotokos,&lt;/p&gt;&#xA;&lt;p&gt;ever-blessed and the most pure, and the Mother of our God.&lt;/p&gt;&#xA;&lt;p&gt;More honorable than the cherubim, and more glorious beyond compare than the seraphim:&lt;/p&gt;&#xA;&lt;p&gt;without defilement thou gavest birth to God the Word:&lt;/p&gt;&#xA;&lt;p&gt;true Theotokos, we magnify thee.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Hymn_to_the_Theotokos.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Communion Hymn</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/communion_verse/</link>
+				<link>http://localhost:1313/blr-choir/docs/communion_verse/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/communion_verse/</guid>
-				<description>&lt;p&gt;Praise the Lord from the Heavens&lt;/p&gt;&#xA;&lt;p&gt;Praise Him in the Highest&lt;/p&gt;&#xA;&lt;p&gt;Their sound hath gone forth into all the earth&lt;/p&gt;&#xA;&lt;p&gt;And their words unto the ends of the world&lt;/p&gt;&#xA;&lt;p&gt;Alleluia! Alleluia! Alleluia!&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Communion_Verse.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/communion_verse/</guid>
+				<description>&lt;p&gt;Praise the Lord from the Heavens&lt;/p&gt;&#xA;&lt;p&gt;Praise Him in the Highest&lt;/p&gt;&#xA;&lt;p&gt;Their sound hath gone forth into all the earth&lt;/p&gt;&#xA;&lt;p&gt;And their words unto the ends of the world&lt;/p&gt;&#xA;&lt;p&gt;Alleluia! Alleluia! Alleluia!&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Communion_Verse.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>Lord&#39;s Prayer</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/lords_prayer/</link>
+				<link>http://localhost:1313/blr-choir/docs/lords_prayer/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/lords_prayer/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/lords_prayer/</guid>
 				<description>&lt;p&gt;Our Father, Who art in heaven,&lt;/p&gt;&#xA;&lt;p&gt;hallowed be Thy name.&lt;/p&gt;&#xA;&lt;p&gt;Thy kingdom come.&lt;/p&gt;&#xA;&lt;p&gt;Thy will be done, on earth as it is in heaven.&lt;/p&gt;&#xA;&lt;p&gt;Give us this day our daily bread,&lt;/p&gt;&#xA;&lt;p&gt;and forgive us our trespasses as we forgive those who trespass against us.&lt;/p&gt;&#xA;&lt;p&gt;And lead us not into temptation, but deliver us from the evil one.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Liturgy Ending</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/liturgy_ending/</link>
+				<link>http://localhost:1313/blr-choir/docs/liturgy_ending/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/liturgy_ending/</guid>
-				<description>&lt;h2 id=&#34;we-have-seen-the-true-light&#34;&gt;&amp;ldquo;We have seen the true Light&amp;rdquo;&lt;a class=&#34;anchor&#34; href=&#34;#we-have-seen-the-true-light&#34; aria-label=&#34;Link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We have seen the true Light!&lt;/p&gt;&#xA;&lt;p&gt;We have received the heavenly spirit!&lt;/p&gt;&#xA;&lt;p&gt;We have found the true faith!&lt;/p&gt;&#xA;&lt;p&gt;Worshipping the undivided Trinity, who has saved us.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;https://orthodoxindia.github.io/blr-choir/audio/Liturgy_Ending_1.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Amen.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Let our mouths be filled with Thy praise, O Lord,&lt;/p&gt;&#xA;&lt;p&gt;that we may sing of Thy glory;&lt;/p&gt;&#xA;&lt;p&gt;for Thou hast counted us worthy to partake of Thy holy, divine, immortal, and life-creating Mysteries.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/blr-choir/docs/liturgy_ending/</guid>
+				<description>&lt;h2 id=&#34;we-have-seen-the-true-light&#34;&gt;&amp;ldquo;We have seen the true Light&amp;rdquo;&lt;a class=&#34;anchor&#34; href=&#34;#we-have-seen-the-true-light&#34; aria-label=&#34;Link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;We have seen the true Light!&lt;/p&gt;&#xA;&lt;p&gt;We have received the heavenly spirit!&lt;/p&gt;&#xA;&lt;p&gt;We have found the true faith!&lt;/p&gt;&#xA;&lt;p&gt;Worshipping the undivided Trinity, who has saved us.&lt;/p&gt;&#xA;&lt;div class=&#34;hymn-audio-wrap&#34;&gt;&#xA;    &lt;audio controls class=&#34;hymn-audio&#34;&gt;&#xA;      &lt;source src=&#34;http://localhost:1313/blr-choir/audio/Liturgy_Ending_1.m4a&#34; type=&#34;audio/mpeg&#34;&gt;&#xA;      Your browser does not support the audio element.&#xA;    &lt;/audio&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Amen.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Let our mouths be filled with Thy praise, O Lord,&lt;/p&gt;&#xA;&lt;p&gt;that we may sing of Thy glory;&lt;/p&gt;&#xA;&lt;p&gt;for Thou hast counted us worthy to partake of Thy holy, divine, immortal, and life-creating Mysteries.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Agni Parthene</title>
-				<link>https://orthodoxindia.github.io/blr-choir/docs/agni_parthene/</link>
+				<link>http://localhost:1313/blr-choir/docs/agni_parthene/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://orthodoxindia.github.io/blr-choir/docs/agni_parthene/</guid>
+				<guid>http://localhost:1313/blr-choir/docs/agni_parthene/</guid>
 				<description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;O virgin pure, Immaculate lady Theotokus&lt;/p&gt;&#xA;&lt;p&gt;Agní Parthéne Déspina, Áhrante Theotóke,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Rejoice, O unwedded bride&lt;/p&gt;&#xA;&lt;p&gt;Hére Nímfi Anímfefte.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;O Virgin Mother, Queen of all/ and fleece which is all dewy&lt;/p&gt;&#xA;&lt;p&gt;Parthéne Mítir Ánassa, Panéndrose te póke.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Rejoice, O unwedded bride&lt;/p&gt;&#xA;&lt;p&gt;Hére Nímfi Anímfefte.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;More radiant than the rays of sun/ and higher than the heavens&lt;/p&gt;&#xA;&lt;p&gt;Ipsilotéra Uranón, aktínon lamprotéra,&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Rejoice, O unwedded bride&lt;/p&gt;&#xA;&lt;p&gt;Hére Nímfi Anímfefte.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Delight of virgin choruses/ superior to Angels.&lt;/p&gt;</description>
 			</item>
 	</channel>
